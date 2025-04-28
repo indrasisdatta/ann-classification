@@ -1,0 +1,5 @@
+Attention mechanism: 
+http://erdem.pl/2021/05/introduction-to-attention-mechanism
+
+Transformer: https://jalammar.github.io/illustrated-transformer/
+
