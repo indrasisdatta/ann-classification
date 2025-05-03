@@ -3,3 +3,5 @@ http://erdem.pl/2021/05/introduction-to-attention-mechanism
 
 Transformer: https://jalammar.github.io/illustrated-transformer/
 
+Transformer architecture: https://www.kaggle.com/code/hakim11/transformer-encoder-architecture
+
