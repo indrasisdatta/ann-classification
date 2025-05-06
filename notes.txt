@@ -5,3 +5,8 @@ Transformer: https://jalammar.github.io/illustrated-transformer/
 
 Transformer architecture: https://www.kaggle.com/code/hakim11/transformer-encoder-architecture
 
+Interview questions on Transformer: 
+https://github.com/purepisces/Wenqing-Machine_Learning_Blog/blob/main/Machine-Learning-Interview-Questions/Transformer-Interview-Question.md
+https://medium.com/double-pointer/top-ten-interview-questions-on-transformers-in-ai-5fb5dcd6df57
+
+
