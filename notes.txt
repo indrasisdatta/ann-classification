@@ -10,3 +10,6 @@ https://github.com/purepisces/Wenqing-Machine_Learning_Blog/blob/main/Machine-Le
 https://medium.com/double-pointer/top-ten-interview-questions-on-transformers-in-ai-5fb5dcd6df57
 
 
+How ChatGPPt is trained? 
+https://rpradeepmenon.medium.com/discover-how-chatgpt-is-trained-1f20b9777d1b
+
