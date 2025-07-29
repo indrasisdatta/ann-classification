@@ -9,3 +9,4 @@ scikeras
 nltk
 torch
 torchinfo
+gensim
