@@ -10,3 +10,4 @@ nltk
 torch
 torchinfo
 gensim
+optuna
